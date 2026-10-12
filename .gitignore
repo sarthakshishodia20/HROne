@@ -1,0 +1,8 @@
+.env
+.env.*
+*.pyc
+__pycache__/
+.venv/
+venv/
+candidate_kit/
+PROBLEM_STATEMENT.docx
